@@ -1,0 +1,10 @@
+<people>
+	<person>
+		<firstname>Carl Gustaf</firstname>
+		<lastname>Bernadotte</lastname>
+		<phone>
+			<mobile>0768-101801</mobile>
+			<telephone>08-101801</telephone>
+		</phone>
+	</person>
+</people>
