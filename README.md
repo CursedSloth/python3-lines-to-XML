@@ -5,15 +5,15 @@ Reads data from input.txt
 
 Saves data to output.xml
 
-Dataset is supposed to be in format: 
+Dataset is supposed to be in format (separated by newline): 
 
-P|firstname|lastname\n
+P|firstname|lastname
 
-T|mobile|telephone\n
+T|mobile|telephone
 
-A|street|city|postalnumber\n
+A|street|city|postalnumber
 
-F|name|year\n
+F|name|year
 
 
 P can be followed by T, A and F
